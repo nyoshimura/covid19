@@ -1,7 +1,9 @@
-# 新型コロナウイルス 国内感染の状況
-新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
+# 新型コロナウイルス 国内感染の状況: 改
+数だけでは分かりづらかったので陽性率, 重症率, 死亡率も可視化してみた.
 
-<img src="https://github.com/nyoshimura/covid19/blob/master/img/2020-05-01-wcomment.png?raw=true" alt="drawing" width="400"/>
+<img src="https://github.com/nyoshimura/covid19/blob/master/img/2020-05-01-wcomment.png?raw=true" alt="drawing" width="800"/>
+
+新型コロナウイルス感染症（COVID-19）の国内における状況を厚生労働省の報道発表資料からビジュアルにまとめた。
 
 [ENGLISH](https://github.com/kaz-ogiwara/covid19/blob/master/README.en.md)
 
